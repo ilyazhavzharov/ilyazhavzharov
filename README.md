@@ -1,6 +1,6 @@
 # HI ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)MY NAME IS **ILYA ZHAVZHAROV**
 
-## FRONTEND DEVELOPER | JS | REACT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+## FRONTEND DEVELOPER | JS | REACT <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="30px">
 
 Welcome to my page! I would like to tell you a little about myself in the IT field. I really like to create new products (websites, applications), most of all I like to work on unusual projects, new design solutions and everything in this direction. Always open to cooperation and interesting offers! :)
 
